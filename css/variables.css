@@ -1,0 +1,25 @@
+:root {
+  --primary: #f4b400;
+  --secondary: #80d8da;
+  --background: #f3f3f3;
+  --foreground: #000000;
+  --accent: #c77e10;
+  --error: #ff4140;
+
+  --h1: 48px;
+  --h2: 36px;
+  --h3: 28px;
+  --h4: 22px;
+  --body: 16px;
+  --button: 16px
+  --input:16px;
+  --caption: 12px;
+  --navegation:16px;
+}
+
+a {
+  text-decoration: none; 
+  color: inherit;
+}
+
+

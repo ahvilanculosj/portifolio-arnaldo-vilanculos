@@ -1,0 +1,29 @@
+main{
+max-width: 900px;
+margin: 0 auto;
+padding: 2rem 1.5rem;
+}
+
+main h1{
+  font-size: var(--h1);
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+main h2{
+  font-size: var(--h2);
+  font-weight: 400;
+  margin-bottom: 1rem;
+ 
+}
+
+main p{
+    font-size: var(--body);
+  margin-bottom: 1rem;
+    
+}
+
+main img{
+  width: 250px;
+  height: 250px;
+}
